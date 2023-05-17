@@ -1,5 +1,5 @@
 name: FindPairs - tests
-on: [push]
+'on': push
 
 jobs:
   build:
